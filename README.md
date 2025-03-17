@@ -21,7 +21,7 @@
 2. **Загрузка данных через `fetch()`**  
    - Получить список товаров из **JSON-файла**, расположенного по ссылке:  
      ```
-     https://products-api.vercel.app/products.json
+     https://products-qn4pgbgk1-orlovwebdevgmailcoms-projects.vercel.app/products.json
      ```
    - Разобрать JSON и вывести товары на страницу.
 
